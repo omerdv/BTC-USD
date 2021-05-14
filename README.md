@@ -9,4 +9,4 @@
 # How to run:
 
 1) In a terminal, go to the project's root folder and run "npm install" to install the project's dependencies
-2) Then run "node index.js"
+2) Then run "npm start"
